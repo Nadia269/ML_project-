@@ -2,7 +2,7 @@
 
 Numerical dataset chosen  Medical Insurance Cost Prediction 
 
-Used Logistic Regression and SVM for prediction CODE
+Used Logistic Regression and K_means for prediction CODE
 
 Image dataset Age Estimation
 
