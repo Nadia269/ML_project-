@@ -6,4 +6,4 @@ Machine Learning with R by Brett Lantz is a book that provides an introduction t
 
 
 Image processing dataset in the followed link :        
-https://drive.google.com/drive/folders/1qznLOlQYHzT4c2PR1e1umKWnwKjOcNvv?usp=drive_link 
+https://drive.google.com/drive/folders/1qznLOlQYHzT4c2PR1e1umKWnwKjOcNvv
